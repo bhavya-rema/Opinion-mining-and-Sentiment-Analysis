@@ -3,15 +3,6 @@ Using POS-Tagging, create a parser for Hotel reviews To get Aspect opinion pairs
 Approach will be to find aspects of the hotels in the customer reviews and the sentiments associated with those aspects. 
 Not using sentence level sentiment mining as there could be multiple sentiments in a single review.
 
-
-## Datasets
-Web scraped data on 316 Singapore hotels from booking.com to create the knowledge base for the Chatbot.
-
-
-Publicly available Sentihood dataset
-5215 sentences
-Labelled with target entity, aspect, polarity
-
 ## Procedure
 
 1. Co reference resolution
