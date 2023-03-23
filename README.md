@@ -11,6 +11,12 @@ Not using sentence level sentiment mining as there could be multiple sentiments 
 4. Scoring aspect opinion for Positive or negative sentiments.
 5. Aggregating sentiments scores on each aspect from multiple reviews for each hotel
 
+
+![alt text](https://github.com/bhavya-rema/Opinion-mining-and-Sentiment-Analysis/blob/main/Aspect_mining.png)
+
+
+![alt text](https://github.com/bhavya-rema/Opinion-mining-and-Sentiment-Analysis/blob/main/Sentiment_mining.png)
+
 ##### Example Statement
 The room was pretty big and spacious.  It was clean.  The view was nice.
 
@@ -21,6 +27,6 @@ The room was pretty big and spacious.  The room was clean.  The view was nice.
 [('room', 'pretty big and spacious'), ('room', 'clean'), ('view', 'nice')]
 
 ##### Sentiment scores:
-room Positive 0.4939
-room Positive 0.4019
-view Positive 0.4215
+###### room Positive 0.4939
+###### room Positive 0.4019
+###### view Positive 0.4215
